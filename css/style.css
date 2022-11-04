@@ -23,12 +23,12 @@ body {
  }
 .images svg:nth-child(1) {
  width: 190px;
- animation: move-one-text 2.5s forwards;
+ animation: move-one-text 3.5s forwards;
 }
 .images svg:nth-child(2) {
  width: 130px;
  margin-left: -70px;
- animation: move-two-text 2.5s forwards;
+ animation: move-two-text 3.5s forwards;
 }
  
 @keyframes move-one-text {
